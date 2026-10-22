@@ -4,9 +4,20 @@ Parfüm Mutfağı şubelerinde Nebim V3'ün üstünde duran yüzen asistanın ku
 Asistan Nebim ekranlarını açar ve günün satış özetini okur; **Nebim'e hiçbir veri yazmaz**.
 
 ## İlk kurulum (her şube bilgisayarında bir kez)
-1. Son paketi indirin: [paketler/NebimAsistani-2026.10.22.7.zip](paketler/NebimAsistani-2026.10.22.7.zip)
+1. Son paketi indirin: [paketler/NebimAsistani-2026.10.22.8.zip](paketler/NebimAsistani-2026.10.22.8.zip)
 2. Zip'i sağ tıklayıp "Tümünü ayıkla" deyin, açılan klasörde **KUR.cmd**'ye çift tıklayın.
 3. Şube kodunu ve adını yazın. Ayrıntılar paketin içindeki `OKU-BENI.txt` dosyasında.
+
+## Tailscale (Ankara bağlantısı için)
+**Asistanı kurmak ve kullanmak için gerekmez.** Asistan Nebim'e şubenin uzak masaüstüyle bağlanır, güncellemeyi buradan (GitHub) alır.
+Ankara merkez paneli şubelerin günlük özetini **Tailscale** özel ağı üzerinden okuyacak. Şubeye gitmişken her bilgisayara bir kez kurulması önerilir:
+1. [tailscale.com/download](https://tailscale.com/download) → Windows sürümünü kurun.
+2. Saatin yanındaki simge → **Log in** → şirketin ortak Google hesabı (Mahmutbey ile aynı).
+3. Simgeye sağ tık → **Run unattended** açık.
+4. [login.tailscale.com](https://login.tailscale.com) → Machines → bilgisayarın satırı → ⋯ → **Disable key expiry**.
+5. Bilgisayara  etiketi verin; Ankara sunucusu  olacak.
+
+, Tailscale kuruluysa bilgisayarın 100.x.y.z adresini kurulum sonuç dosyasına yazar. Ayrıntılı açılış adımları paketteki  dosyasında.
 
 ## Güncelleme
 Kurulu şubelerde asistan simgesinin sağ tık menüsündeki **Güncelle** (ya da masaüstündeki **Nebim Asistanı Güncelle** kısayolu) `surum.json`'u okur,
@@ -26,3 +37,4 @@ yeni paketi indirir, SHA-256 ile doğrular ve şube ayarlarını koruyarak kurar
 | 2026.10.22.5 | 2026-10-22 | `68c91ded5cf41ce41703860308406675a4a734f9b9ae1456a842574021d59077` |
 | 2026.10.22.6 | 2026-10-22 | `e24119a556c51f6706c79933a0da0be7102418276e109673517e72f43fa3339e` |
 | 2026.10.22.7 | 2026-10-22 | `af1ba6fecd7a0a66ac3d2df94414ee49e4ec1b08db4502e81fac501b77a6a994` |
+| 2026.10.22.8 | 2026-10-22 | `dffa025ebc761b0ba8c7710fcd43c8bddc0e98c427efab9980e69fe49df83faf` |

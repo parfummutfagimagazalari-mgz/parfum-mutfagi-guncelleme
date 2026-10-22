@@ -1,8 +1,8 @@
 {
   "urun": "nebim-asistani",
-  "surum": "2026.10.22.7",
+  "surum": "2026.10.22.8",
   "tarih": "2026-10-22",
-  "zip": "https://raw.githubusercontent.com/parfummutfagimagazalari-mgz/parfum-mutfagi-guncelleme/main/nebim-asistani/paketler/NebimAsistani-2026.10.22.7.zip",
-  "sha256": "af1ba6fecd7a0a66ac3d2df94414ee49e4ec1b08db4502e81fac501b77a6a994",
-  "notlar": "Güncelleme penceresi bitince kendiliğinden kapanır (başarıda 3 sn, hatada 60 sn); tepsiden Güncelle."
+  "zip": "https://raw.githubusercontent.com/parfummutfagimagazalari-mgz/parfum-mutfagi-guncelleme/main/nebim-asistani/paketler/NebimAsistani-2026.10.22.8.zip",
+  "sha256": "dffa025ebc761b0ba8c7710fcd43c8bddc0e98c427efab9980e69fe49df83faf",
+  "notlar": "Tailscale rehberi (OKU-BENI, Ankara planı); kurulum Tailscale adresini sonuç dosyasına yazar."
 }
