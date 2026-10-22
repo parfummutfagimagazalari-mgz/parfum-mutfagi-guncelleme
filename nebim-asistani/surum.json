@@ -1,8 +1,8 @@
 {
   "urun": "nebim-asistani",
-  "surum": "2026.10.22.5",
+  "surum": "2026.10.22.6",
   "tarih": "2026-10-22",
-  "zip": "https://raw.githubusercontent.com/parfummutfagimagazalari-mgz/parfum-mutfagi-guncelleme/main/nebim-asistani/paketler/NebimAsistani-2026.10.22.5.zip",
-  "sha256": "68c91ded5cf41ce41703860308406675a4a734f9b9ae1456a842574021d59077",
-  "notlar": "Daha hızlı Yenile ve POS okuma (toplu UI Automation sorgusu, yardımcı 4.3); satır etiketinde \"Seçili değil\" gizlendi."
+  "zip": "https://raw.githubusercontent.com/parfummutfagimagazalari-mgz/parfum-mutfagi-guncelleme/main/nebim-asistani/paketler/NebimAsistani-2026.10.22.6.zip",
+  "sha256": "e24119a556c51f6706c79933a0da0be7102418276e109673517e72f43fa3339e",
+  "notlar": "Tepsi menüsüne Güncelle eklendi; hızlı Yenile/POS okuma (yardımcı 4.3)."
 }
