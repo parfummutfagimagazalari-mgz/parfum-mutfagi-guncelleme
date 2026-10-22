@@ -1,11 +1,11 @@
 {
   "urun": "nebim-asistani",
-  "surum": "2026.10.22.11",
+  "surum": "2026.10.22.12",
   "tarih": "2026-10-22",
-  "zip": "https://raw.githubusercontent.com/parfummutfagimagazalari-mgz/parfum-mutfagi-guncelleme/main/nebim-asistani/paketler/NebimAsistani-2026.10.22.11.zip",
-  "sha256": "b2a6bd9b4f88224c905c910040fab5ba597918395fcf66c627ef7ff5ff993417",
-  "notlar": "İşlem sürerken basılan karoda ve Yenile'de küçük animasyon; Hareket Özeti'nde Çalıştır ilk denemede bulunamazsa ikinci kez aranır; \"(Seçili değil)\" yazısı gizlendi.",
+  "zip": "https://raw.githubusercontent.com/parfummutfagimagazalari-mgz/parfum-mutfagi-guncelleme/main/nebim-asistani/paketler/NebimAsistani-2026.10.22.12.zip",
+  "sha256": "7beeff03584c518780630fd5da00ba9ef5cf8439c1238b8650081021938db92e",
+  "notlar": "Asistan açıldıktan sonraki ilk Yenile artık hata vermez: Hareket Özeti eski sonucu gösteriyorsa yalnız bu rapor kapatılıp yeniden açılır ve çalıştırılır. Önceki sürümden: düğme animasyonu, \"(Seçili değil)\" gizli.",
   "telif": "Copyright (c) 2026 Ahmet Aksoy. Tüm hakları saklıdır.",
-  "yardimci": "4.4",
+  "yardimci": "4.5",
   "tur": "hazir-program"
 }
