@@ -15,9 +15,9 @@ Ankara merkez paneli şubelerin günlük özetini **Tailscale** özel ağı üze
 2. Saatin yanındaki simge → **Log in** → şirketin ortak Google hesabı (Mahmutbey ile aynı).
 3. Simgeye sağ tık → **Run unattended** açık.
 4. [login.tailscale.com](https://login.tailscale.com) → Machines → bilgisayarın satırı → ⋯ → **Disable key expiry**.
-5. Bilgisayara  etiketi verin; Ankara sunucusu  olacak.
+5. Bilgisayara `tag:sube` etiketi verin; Ankara sunucusu `tag:ankara` olacak.
 
-, Tailscale kuruluysa bilgisayarın 100.x.y.z adresini kurulum sonuç dosyasına yazar. Ayrıntılı açılış adımları paketteki  dosyasında.
+`KUR.cmd`, Tailscale kuruluysa bilgisayarın 100.x.y.z adresini kurulum sonuç dosyasına yazar. Ayrıntılı açılış adımları paketteki `docs/ANKARA-MERKEZ-PLANI.md` dosyasında.
 
 ## Güncelleme
 Kurulu şubelerde asistan simgesinin sağ tık menüsündeki **Güncelle** (ya da masaüstündeki **Nebim Asistanı Güncelle** kısayolu) `surum.json`'u okur,
