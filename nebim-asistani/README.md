@@ -10,9 +10,20 @@ Asistan Nebim ekranlarını açar ve günün satış özetini okur; **Nebim'e hi
 Paketler **hazır program** (exe) olarak yayımlanır; kaynak kod bu depoda bulunmaz.
 
 ## İlk kurulum (her şube bilgisayarında bir kez)
-1. Son paketi indirin: [paketler/NebimAsistani-2026.10.22.10.zip](paketler/NebimAsistani-2026.10.22.10.zip)
+**Tek satırla (önerilen):** Başlat → "PowerShell" yazın → açın, aşağıdaki satırı yapıştırıp Enter'a basın (yönetici gerekmez):
+
+```
+powershell -NoProfile -ExecutionPolicy Bypass -Command "irm https://raw.githubusercontent.com/parfummutfagimagazalari-mgz/parfum-mutfagi-guncelleme/main/nebim-asistani/kur-github.ps1 | iex"
+```
+
+Yayındaki son sürümü indirir, SHA-256 ile doğrular, açar ve kurulumu başlatır; şube kodu ve adı sorulur. Doğrulama tutmazsa hiçbir şey kurmaz.
+
+**Zip ile (internet yoksa):**
+1. `surum.json`'daki son paketi `paketler/` klasöründen indirin.
 2. Zip'i sağ tıklayıp "Tümünü ayıkla" deyin, açılan klasörde **KUR.cmd**'ye çift tıklayın.
 3. Şube kodunu ve adını yazın. Ayrıntılar paketin içindeki `OKU-BENI.txt` dosyasında.
+
+Her iki yolda da son adım aynıdır: Nebim.rdp ile bağlanıp uzak masaüstünde `\\tsclient\N\araclar\NebimYardimci.exe` bir kez çalıştırılır.
 
 ## Tailscale (Ankara bağlantısı için)
 **Asistanı kurmak ve kullanmak için gerekmez.** Asistan Nebim'e şubenin uzak masaüstüyle bağlanır, güncellemeyi buradan (GitHub) alır.
@@ -44,3 +55,5 @@ Paketler yalnız geliştirme bilgisayarında **PAKET-HAZIRLA** ile üretilir: ka
 | 2026.10.22.8 | 2026-10-22 | kaldırıldı (kaynak içeriyordu) |
 | 2026.10.22.9 | 2026-10-22 | kaldırıldı (kaynak içeriyordu) |
 | 2026.10.22.10 | 2026-10-22 | `ba75242de59546987d5f754368a75dedbe5bd5b0eb4f3daa10d40fd63c10826e` |
+| 2026.10.22.11 | 2026-10-22 | `b2a6bd9b4f88224c905c910040fab5ba597918395fcf66c627ef7ff5ff993417` |
+| 2026.10.22.12 | 2026-10-22 | `7beeff03584c518780630fd5da00ba9ef5cf8439c1238b8650081021938db92e` |
