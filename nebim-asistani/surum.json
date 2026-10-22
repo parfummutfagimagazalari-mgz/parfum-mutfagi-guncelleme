@@ -1,11 +1,11 @@
 {
   "urun": "nebim-asistani",
-  "surum": "2026.10.22.10",
+  "surum": "2026.10.22.11",
   "tarih": "2026-10-22",
-  "zip": "https://raw.githubusercontent.com/parfummutfagimagazalari-mgz/parfum-mutfagi-guncelleme/main/nebim-asistani/paketler/NebimAsistani-2026.10.22.10.zip",
-  "sha256": "ba75242de59546987d5f754368a75dedbe5bd5b0eb4f3daa10d40fd63c10826e",
-  "notlar": "Şube paketi artık kaynak kod içermez: hazır program (exe) olarak gelir; Ankara merkez ucu ayrıca verilecek.",
+  "zip": "https://raw.githubusercontent.com/parfummutfagimagazalari-mgz/parfum-mutfagi-guncelleme/main/nebim-asistani/paketler/NebimAsistani-2026.10.22.11.zip",
+  "sha256": "b2a6bd9b4f88224c905c910040fab5ba597918395fcf66c627ef7ff5ff993417",
+  "notlar": "İşlem sürerken basılan karoda ve Yenile'de küçük animasyon; Hareket Özeti'nde Çalıştır ilk denemede bulunamazsa ikinci kez aranır; \"(Seçili değil)\" yazısı gizlendi.",
   "telif": "Copyright (c) 2026 Ahmet Aksoy. Tüm hakları saklıdır.",
-  "yardimci": "4.3",
+  "yardimci": "4.4",
   "tur": "hazir-program"
 }
