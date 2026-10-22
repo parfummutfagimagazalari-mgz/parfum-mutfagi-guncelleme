@@ -4,7 +4,7 @@ Parfüm Mutfağı şubelerinde Nebim V3'ün üstünde duran yüzen asistanın ku
 Asistan Nebim ekranlarını açar ve günün satış özetini okur; **Nebim'e hiçbir veri yazmaz**.
 
 ## İlk kurulum (her şube bilgisayarında bir kez)
-1. Son paketi indirin: [paketler/NebimAsistani-2026.10.22.6.zip](paketler/NebimAsistani-2026.10.22.6.zip)
+1. Son paketi indirin: [paketler/NebimAsistani-2026.10.22.7.zip](paketler/NebimAsistani-2026.10.22.7.zip)
 2. Zip'i sağ tıklayıp "Tümünü ayıkla" deyin, açılan klasörde **KUR.cmd**'ye çift tıklayın.
 3. Şube kodunu ve adını yazın. Ayrıntılar paketin içindeki `OKU-BENI.txt` dosyasında.
 
@@ -25,3 +25,4 @@ yeni paketi indirir, SHA-256 ile doğrular ve şube ayarlarını koruyarak kurar
 | 2026.10.22.4 | 2026-10-22 | `2ffa226e0e4571c0a3dff050d12b10edc5f5bcdae76ef1df1592fc6a3f87b6e1` |
 | 2026.10.22.5 | 2026-10-22 | `68c91ded5cf41ce41703860308406675a4a734f9b9ae1456a842574021d59077` |
 | 2026.10.22.6 | 2026-10-22 | `e24119a556c51f6706c79933a0da0be7102418276e109673517e72f43fa3339e` |
+| 2026.10.22.7 | 2026-10-22 | `af1ba6fecd7a0a66ac3d2df94414ee49e4ec1b08db4502e81fac501b77a6a994` |
