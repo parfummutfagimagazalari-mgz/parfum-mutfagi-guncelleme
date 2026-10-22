@@ -1,8 +1,8 @@
 {
   "urun": "nebim-asistani",
-  "surum": "2026.10.22.1",
+  "surum": "2026.10.22.2",
   "tarih": "2026-10-22",
-  "zip": "https://raw.githubusercontent.com/parfummutfagimagazalari-mgz/parfum-mutfagi-guncelleme/main/nebim-asistani/paketler/NebimAsistani-2026.10.22.1.zip",
-  "sha256": "1264b88f51708072eb051be95f36043331640563482e9d7ae503517353b378b4",
-  "notlar": "İlk şube paketi: 9 karo (büyük harf), POS/STORE Hareket Özeti okuma, şube adı asistandan girilir, Ankara merkez ucu (kapalı), güncelleyici."
+  "zip": "https://raw.githubusercontent.com/parfummutfagimagazalari-mgz/parfum-mutfagi-guncelleme/main/nebim-asistani/paketler/NebimAsistani-2026.10.22.2.zip",
+  "sha256": "4d17611e503980e5065c0ff075b68b845c579a726480b0c8f51889677f804d25",
+  "notlar": "Karo yazıları: her kelimenin baş harfi büyük, diğerleri küçük."
 }
