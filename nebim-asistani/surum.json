@@ -1,8 +1,8 @@
 {
   "urun": "nebim-asistani",
-  "surum": "2026.10.22.4",
+  "surum": "2026.10.22.5",
   "tarih": "2026-10-22",
-  "zip": "https://raw.githubusercontent.com/parfummutfagimagazalari-mgz/parfum-mutfagi-guncelleme/main/nebim-asistani/paketler/NebimAsistani-2026.10.22.4.zip",
-  "sha256": "2ffa226e0e4571c0a3dff050d12b10edc5f5bcdae76ef1df1592fc6a3f87b6e1",
-  "notlar": "Görünür Mağaza adı düğmesi; canlı karo renkleri; yeni simge; karo yazıları baş harfi büyük."
+  "zip": "https://raw.githubusercontent.com/parfummutfagimagazalari-mgz/parfum-mutfagi-guncelleme/main/nebim-asistani/paketler/NebimAsistani-2026.10.22.5.zip",
+  "sha256": "68c91ded5cf41ce41703860308406675a4a734f9b9ae1456a842574021d59077",
+  "notlar": "Daha hızlı Yenile ve POS okuma (toplu UI Automation sorgusu, yardımcı 4.3); satır etiketinde \"Seçili değil\" gizlendi."
 }
