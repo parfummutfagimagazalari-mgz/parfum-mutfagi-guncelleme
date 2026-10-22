@@ -1,10 +1,15 @@
 # Nebim Asistanı — şube paketi
 
+> **Copyright (c) 2026 Ahmet Aksoy. Tüm hakları saklıdır.**
+> Nebim Asistanı Ahmet Aksoy tarafından tasarlanmış ve geliştirilmiştir; fikri ve ticari haklar Ahmet Aksoy'a aittir.
+> Ahmet Aksoy'un yazılı izni olmadan değiştirilemez, kopyalanamaz, dağıtılamaz, satılamaz ve ticari olarak kullanılamaz.
+> Paketlerin bu depoda bulunması yalnız izinli şubelerin indirebilmesi içindir, kullanım hakkı vermez. Ayrıntı: [LISANS.txt](LISANS.txt)
+
 Parfüm Mutfağı şubelerinde Nebim V3'ün üstünde duran yüzen asistanın kurulum ve güncelleme paketleri.
 Asistan Nebim ekranlarını açar ve günün satış özetini okur; **Nebim'e hiçbir veri yazmaz**.
 
 ## İlk kurulum (her şube bilgisayarında bir kez)
-1. Son paketi indirin: [paketler/NebimAsistani-2026.10.22.8.zip](paketler/NebimAsistani-2026.10.22.8.zip)
+1. Son paketi indirin: [paketler/NebimAsistani-2026.10.22.9.zip](paketler/NebimAsistani-2026.10.22.9.zip)
 2. Zip'i sağ tıklayıp "Tümünü ayıkla" deyin, açılan klasörde **KUR.cmd**'ye çift tıklayın.
 3. Şube kodunu ve adını yazın. Ayrıntılar paketin içindeki `OKU-BENI.txt` dosyasında.
 
@@ -38,3 +43,4 @@ yeni paketi indirir, SHA-256 ile doğrular ve şube ayarlarını koruyarak kurar
 | 2026.10.22.6 | 2026-10-22 | `e24119a556c51f6706c79933a0da0be7102418276e109673517e72f43fa3339e` |
 | 2026.10.22.7 | 2026-10-22 | `af1ba6fecd7a0a66ac3d2df94414ee49e4ec1b08db4502e81fac501b77a6a994` |
 | 2026.10.22.8 | 2026-10-22 | `dffa025ebc761b0ba8c7710fcd43c8bddc0e98c427efab9980e69fe49df83faf` |
+| 2026.10.22.9 | 2026-10-22 | `e75117a6526ca74e55f151e60451aa3cd8f93d2302d97e9b71deed746c8b838a` |

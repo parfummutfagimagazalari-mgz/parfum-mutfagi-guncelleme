@@ -1,0 +1,41 @@
+﻿NEBİM ASİSTANI — TELİF HAKKI VE KULLANIM KOŞULLARI
+
+Copyright (c) 2026 Ahmet Aksoy. Tüm hakları saklıdır.
+
+Nebim Asistanı; yüzen asistan programı, Nebim Yardımcısı, kurulum ve güncelleme
+araçları, Ankara merkez ucu, simge, ekran listeleri ve belgeleriyle birlikte
+(bundan sonra "Yazılım") Ahmet Aksoy tarafından tasarlanmış ve geliştirilmiştir.
+Yazılım üzerindeki fikri ve ticari haklar Ahmet Aksoy'a aittir.
+
+1. KULLANIM İZNİ
+   Yazılım yalnız Ahmet Aksoy'un izin verdiği kişi ve kuruluşlarca, izin verilen
+   kapsamda kullanılabilir. Kullanım izni Ahmet Aksoy tarafından verilir ve geri
+   alınabilir.
+
+2. İZİNSİZ YAPILAMAYACAKLAR
+   Ahmet Aksoy'un yazılı izni olmadan Yazılım ya da herhangi bir parçası:
+   a) değiştirilemez, uyarlanamaz, başka bir yazılıma dönüştürülemez;
+   b) kopyalanamaz, çoğaltılamaz, dağıtılamaz, yayımlanamaz;
+   c) satılamaz, kiralanamaz, lisanslanamaz, başka bir ticari amaçla kullanılamaz;
+   d) üzerindeki telif ve hak bildirimleri kaldırılamaz ya da değiştirilemez.
+
+3. HERKESE AÇIK DEPO
+   Yazılımın kurulum paketlerinin herkese açık bir depoda (GitHub) bulunması,
+   yalnız izinli şubelerin kurulum ve güncellemeyi indirebilmesi içindir.
+   Bu durum kimseye kullanım, kopyalama, değiştirme ya da ticari kullanım hakkı
+   vermez.
+
+4. SORUMLULUK
+   Yazılım olduğu gibi sunulur. Yazılım Nebim'e veri yazmaz; Nebim'deki kayıt,
+   onay ve diğer işlemlerin sorumluluğu işlemi yapan kullanıcıdadır.
+
+5. İZİN TALEBİ
+   Kullanım, değişiklik veya ticari kullanım izni için Ahmet Aksoy'a başvurulur.
+
+---------------------------------------------------------------------------------
+NEBIM ASISTANI — COPYRIGHT AND TERMS OF USE (English summary)
+Copyright (c) 2026 Ahmet Aksoy. All rights reserved. Designed and developed by
+Ahmet Aksoy, who owns all intellectual and commercial rights. No modification,
+copying, redistribution, sale or commercial use without Ahmet Aksoy's prior
+written permission. Public availability of the installation packages grants no
+license of any kind.
