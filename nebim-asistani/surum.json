@@ -1,11 +1,11 @@
 {
   "urun": "nebim-asistani",
-  "surum": "2026.10.22.12",
-  "tarih": "2026-10-22",
-  "zip": "https://raw.githubusercontent.com/parfummutfagimagazalari-mgz/parfum-mutfagi-guncelleme/main/nebim-asistani/paketler/NebimAsistani-2026.10.22.12.zip",
-  "sha256": "7beeff03584c518780630fd5da00ba9ef5cf8439c1238b8650081021938db92e",
-  "notlar": "Asistan açıldıktan sonraki ilk Yenile artık hata vermez: Hareket Özeti eski sonucu gösteriyorsa yalnız bu rapor kapatılıp yeniden açılır ve çalıştırılır. Önceki sürümden: düğme animasyonu, \"(Seçili değil)\" gizli.",
+  "surum": "2026.10.29.1",
+  "tarih": "2026-10-29",
+  "zip": "https://raw.githubusercontent.com/parfummutfagimagazalari-mgz/parfum-mutfagi-guncelleme/main/nebim-asistani/paketler/NebimAsistani-2026.10.29.1.zip",
+  "sha256": "a4b94f256a9a6639ece71e000283ecaccfc6d942ad60fbbba3ca3bc9a236a9ed",
+  "notlar": "MCP bağlantısı iptal edildi; asistan ve sunucu yardımcısı artık doğrudan SQL (PM_V3) üzerinden salt-okunur bağlanır. Şube satış, fiş, adet, nakit ve kart toplamları Nebim ekranını açmadan doğrudan SQL'den canlı okunur.",
   "telif": "Copyright (c) 2026 Ahmet Aksoy. Tüm hakları saklıdır.",
-  "yardimci": "4.5",
+  "yardimci": "8.0",
   "tur": "hazir-program"
 }
