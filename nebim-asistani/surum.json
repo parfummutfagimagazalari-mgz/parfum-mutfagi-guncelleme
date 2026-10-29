@@ -1,10 +1,10 @@
 {
   "urun": "nebim-asistani",
-  "surum": "2026.10.29.2",
+  "surum": "2026.10.29.3",
   "tarih": "2026-10-29",
-  "zip": "https://raw.githubusercontent.com/parfummutfagimagazalari-mgz/parfum-mutfagi-guncelleme/main/nebim-asistani/paketler/NebimAsistani-2026.10.29.2.zip",
-  "sha256": "eb19eeffb60fa29efeca581a87a5f32c27f612b6c725d42e3b8fcc1feacf2156",
-  "notlar": "MCP bağlantısı iptal edildi; Ankara Merkez (Cigdem / MERKEZ) ve tüm şubeler doğrudan SQL (PM_V3) üzerinden salt-okunur bağlanır. Sunucu yardımcısı (NebimYardimci) ve hızlı özel SQL sorgu köprüsü güncellendi.",
+  "zip": "https://raw.githubusercontent.com/parfummutfagimagazalari-mgz/parfum-mutfagi-guncelleme/main/nebim-asistani/paketler/NebimAsistani-2026.10.29.3.zip",
+  "sha256": "09dd1aecca24a779e3d11851f4d5bd4eba7ec02aeb1fb9aa3fad40e5cef62610",
+  "notlar": "MCP bağlantısı iptal edildi; Ankara Merkez (Cigdem / MERKEZ) ve tüm şubeler doğrudan SQL (PM_V3) üzerinden salt-okunur bağlanır. Asistan üst çubuğuna, tepsi menüsüne ve uzak masaüstü Nebim Yardımcı tepsi menüsüne doğrudan Güncelle seçeneği eklendi.",
   "telif": "Copyright (c) 2026 Ahmet Aksoy. Tüm hakları saklıdır.",
   "yardimci": "8.0",
   "tur": "hazir-program"
