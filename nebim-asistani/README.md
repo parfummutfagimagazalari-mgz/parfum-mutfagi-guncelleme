@@ -58,3 +58,4 @@ Paketler yalnız geliştirme bilgisayarında **PAKET-HAZIRLA** ile üretilir: ka
 | 2026.10.22.11 | 2026-10-22 | `b2a6bd9b4f88224c905c910040fab5ba597918395fcf66c627ef7ff5ff993417` |
 | 2026.10.22.12 | 2026-10-22 | `7beeff03584c518780630fd5da00ba9ef5cf8439c1238b8650081021938db92e` |
 | 2026.10.29.1 | 2026-10-29 | `a4b94f256a9a6639ece71e000283ecaccfc6d942ad60fbbba3ca3bc9a236a9ed` (MCP iptal, doğrudan SQL PM_V3 bağlantısı) |
+| 2026.10.29.2 | 2026-10-29 | `eb19eeffb60fa29efeca581a87a5f32c27f612b6c725d42e3b8fcc1feacf2156` (Ankara Merkez Cigdem / MERKEZ ve şubeler doğrudan SQL PM_V3) |
