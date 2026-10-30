@@ -1,7 +1,1 @@
-{
-  "surum": "2026.10.30.4",
-  "tarih": "2026-10-30",
-  "paket": "https://raw.githubusercontent.com/parfummutfagimagazalari-mgz/parfum-mutfagi-guncelleme/main/nebim-asistani/paketler/NebimAsistani-2026.10.30.4.zip",
-  "sha256": "99de35a002a9e4eea17f130eb3333d83bcb38c3d19653c33c11836618a7400c7",
-  "not": "Sesli Ajan (v6.0): Farkedilir Mikrofon (Dikte) butonu, Sesli/Sessiz tek tikla gecis butonu ve canli dikte kutusu eklendi."
-}
+{"surum":"2026.10.30.5","tarih":"2026-10-30","aciklama":"Satis Sorumlusu ve acik ekran algilama iyilestirmesi, Canli Makine Ekrani bozuk kutu karakteri ve yanlis alarm duzeltmesi, katalog rehber yedegi"}
