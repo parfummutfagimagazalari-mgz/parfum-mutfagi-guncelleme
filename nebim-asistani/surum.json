@@ -1,7 +1,15 @@
 {
-    "surum":  "2026.10.30.7",
-    "tarih":  "2026-10-30 16:37:51",
-    "zip":  "https://raw.githubusercontent.com/parfummutfagimagazalari-mgz/parfum-mutfagi-guncelleme/main/nebim-asistani/paketler/NebimAsistani-2026.10.30.7.zip",
-    "sha256":  "8f88a589d0637712eb8192096f00ef8d3e18c9fb5bb82cab87ca663e33f129c1",
-    "not":  "FilterControl (v3DateFunctionOperator) hatasi ve UIA tam agac tarama gecikmesi giderildi; Yenile sadece SQL uzerinden okur."
+    "surum":  "2026.10.30.11",
+    "version":  "2026.10.30.11",
+    "yayinTarihi":  "2026-10-30 18:01:22",
+    "publishedAt":  "2026-10-30 18:01:22",
+    "dosyaAdi":  "NebimAsistani-2026.10.30.11.zip",
+    "indirmeUrl":  "https://raw.githubusercontent.com/parfummutfagimagazalari-mgz/parfum-mutfagi-guncelleme/main/nebim-asistani/paketler/NebimAsistani-2026.10.30.11.zip",
+    "downloadUrl":  "https://raw.githubusercontent.com/parfummutfagimagazalari-mgz/parfum-mutfagi-guncelleme/main/nebim-asistani/paketler/NebimAsistani-2026.10.30.11.zip",
+    "zipUrl":  "https://raw.githubusercontent.com/parfummutfagimagazalari-mgz/parfum-mutfagi-guncelleme/main/nebim-asistani/paketler/NebimAsistani-2026.10.30.11.zip",
+    "zip":  "https://raw.githubusercontent.com/parfummutfagimagazalari-mgz/parfum-mutfagi-guncelleme/main/nebim-asistani/paketler/NebimAsistani-2026.10.30.11.zip",
+    "sha256":  "3be2a2535b251c4fb13113236860b1f77ec8940509634037126c109435af7337",
+    "boyut":  1277265,
+    "not":  "v2026.10.30.11 : Mahmutbey ve Ankara Merkez Asistani Tam Esitleme (Cozum Merkezi 1562 menu + 26 makale + 32 hata kurali, 5 katmanli fare/klavye kalkani, 1.5sn hizli ekran acilisi, taze SQL ciro okuma, Sesli Ajan ve Personel butonu kaldirma).",
+    "notlar":  "v2026.10.30.11 : Mahmutbey ve Ankara Merkez Asistani Tam Esitleme (Cozum Merkezi 1562 menu + 26 makale + 32 hata kurali, 5 katmanli fare/klavye kalkani, 1.5sn hizli ekran acilisi, taze SQL ciro okuma, Sesli Ajan ve Personel butonu kaldirma)."
 }
