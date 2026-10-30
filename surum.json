@@ -1,15 +1,15 @@
 {
-    "surum":  "2026.10.30.12",
-    "version":  "2026.10.30.12",
-    "yayinTarihi":  "2026-10-30 18:09:03",
-    "publishedAt":  "2026-10-30 18:09:03",
-    "dosyaAdi":  "NebimAsistani-2026.10.30.12.zip",
-    "indirmeUrl":  "https://raw.githubusercontent.com/parfummutfagimagazalari-mgz/parfum-mutfagi-guncelleme/main/nebim-asistani/paketler/NebimAsistani-2026.10.30.12.zip",
-    "downloadUrl":  "https://raw.githubusercontent.com/parfummutfagimagazalari-mgz/parfum-mutfagi-guncelleme/main/nebim-asistani/paketler/NebimAsistani-2026.10.30.12.zip",
-    "zipUrl":  "https://raw.githubusercontent.com/parfummutfagimagazalari-mgz/parfum-mutfagi-guncelleme/main/nebim-asistani/paketler/NebimAsistani-2026.10.30.12.zip",
-    "zip":  "https://raw.githubusercontent.com/parfummutfagimagazalari-mgz/parfum-mutfagi-guncelleme/main/nebim-asistani/paketler/NebimAsistani-2026.10.30.12.zip",
-    "sha256":  "11ef8d7e28c874310d40397de9dba46dd9800ddf2ee049de298266ca79efb594",
-    "boyut":  1535129,
-    "not":  "v2026.10.30.12 : PM Mahmutbey (pm-mahmutbey.ico) ve PM Merkez (pm-merkez.ico) orijinal ikon ve kisayol sabitlemesi + tam esitleme.",
-    "notlar":  "v2026.10.30.12 : PM Mahmutbey (pm-mahmutbey.ico) ve PM Merkez (pm-merkez.ico) orijinal ikon ve kisayol sabitlemesi + tam esitleme."
+    "surum":  "2026.10.30.13",
+    "version":  "2026.10.30.13",
+    "yayinTarihi":  "2026-10-30 18:26:53",
+    "publishedAt":  "2026-10-30 18:26:53",
+    "dosyaAdi":  "NebimAsistani-2026.10.30.13.zip",
+    "indirmeUrl":  "https://raw.githubusercontent.com/parfummutfagimagazalari-mgz/parfum-mutfagi-guncelleme/main/nebim-asistani/paketler/NebimAsistani-2026.10.30.13.zip",
+    "downloadUrl":  "https://raw.githubusercontent.com/parfummutfagimagazalari-mgz/parfum-mutfagi-guncelleme/main/nebim-asistani/paketler/NebimAsistani-2026.10.30.13.zip",
+    "zipUrl":  "https://raw.githubusercontent.com/parfummutfagimagazalari-mgz/parfum-mutfagi-guncelleme/main/nebim-asistani/paketler/NebimAsistani-2026.10.30.13.zip",
+    "zip":  "https://raw.githubusercontent.com/parfummutfagimagazalari-mgz/parfum-mutfagi-guncelleme/main/nebim-asistani/paketler/NebimAsistani-2026.10.30.13.zip",
+    "sha256":  "7669a2f3457e12228f35de32c2bd06c06cf8a80bfc8079eb72734be8dd5f2d26",
+    "boyut":  1600500,
+    "not":  "v2026.10.30.13 : Sistem tepsisi hayalet (i) simgeleri otomatik temizleme (SweepPhantomTrayIcons) ve duzgun NotifyIcon kapatma.",
+    "notlar":  "v2026.10.30.13 : Sistem tepsisi hayalet (i) simgeleri otomatik temizleme (SweepPhantomTrayIcons) ve duzgun NotifyIcon kapatma."
 }
