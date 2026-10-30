@@ -1,8 +1,7 @@
 {
-    "surum":  "2026.10.30.6",
-    "tarih":  "2026-10-30",
-    "zip":  "https://raw.githubusercontent.com/parfummutfagimagazalari-mgz/parfum-mutfagi-guncelleme/main/nebim-asistani/paketler/NebimAsistani-2026.10.30.6.zip",
-    "sha256":  "21596c411a01aec08dba8df8e38075e68078d7dd329371c373f0f6e62ed8c764",
-    "notlar":  "Canli Makine Ekranli Sesli Ajan (v6.0) - Personel/Prim Aktar butonu kaldirildi, Yenile butonu dogrudan hizli PM_V3 SQL sorgusu (AllInvoices + AllPayments) ile anlik calisacak sekilde duzeltildi.",
-    "not":  "Canli Makine Ekranli Sesli Ajan (v6.0) - Personel/Prim Aktar butonu kaldirildi, Yenile butonu dogrudan hizli PM_V3 SQL sorgusu (AllInvoices + AllPayments) ile anlik calisacak sekilde duzeltildi."
+    "surum":  "2026.10.30.8",
+    "tarih":  "2026-10-30 17:04",
+    "zip":  "https://raw.githubusercontent.com/parfummutfagimagazalari-mgz/parfum-mutfagi-guncelleme/main/NebimAsistani-2026.10.30.8.zip",
+    "sha256":  "efeaed2c99d40fa3517a1e783ce7964d734ee45514cac7d6ebc2605353574516",
+    "not":  "v2026.10.30.8: Karo ve son acilan menu hizlandirma (80ms kuyruk yoklama, Ara... onbellek, toplu SendInput yazma ve hizli UIA filtreleme)."
 }
