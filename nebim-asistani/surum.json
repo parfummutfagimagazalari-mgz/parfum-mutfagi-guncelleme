@@ -1,10 +1,10 @@
 {
   "urun": "nebim-asistani",
-  "surum": "2026.10.30.2",
+  "surum": "2026.10.30.3",
   "tarih": "2026-10-30",
-  "zip": "https://raw.githubusercontent.com/parfummutfagimagazalari-mgz/parfum-mutfagi-guncelleme/main/nebim-asistani/paketler/NebimAsistani-2026.10.30.2.zip",
-  "sha256": "749334cc646d7f2190036991079280ad2893478bfc35e4b7de1bd47354b4a6b7",
-  "notlar": "Sesli Ajan (v6.0): Canlı Makine Ekranı yanlış 'ERP Açık Değil' uyarısı düzeltildi; arka planda kendi kendine konuşma (gürültü kirliliği) kapatıldı, sesli okuma yalnızca kullanıcı istediğinde (Ciro Oku / Adım Oku / Sesli Komut) çalışır.",
+  "zip": "https://raw.githubusercontent.com/parfummutfagimagazalari-mgz/parfum-mutfagi-guncelleme/main/nebim-asistani/paketler/NebimAsistani-2026.10.30.3.zip",
+  "sha256": "8ee1517ad8fdb5bd876b710d7ed76afb09f53f477c6a763fae3849c837d43c7f",
+  "notlar": "Sesli Ajan (v6.0): Üst çubuktaki butonlar ferahlatıldı (Küçült, Üstte, PM3401 Açık, Tema, Karo Ayarları); Sesli Asistan, Güncelle, Sistem Onar ve Canlı Test butonları alt bölümde geniş ve tıklanabilir 4'lü satır olarak düzenlendi.",
   "telif": "Copyright (c) 2026 Ahmet Aksoy. Tüm hakları saklıdır.",
   "yardimci": "8.0",
   "tur": "hazir-program"
