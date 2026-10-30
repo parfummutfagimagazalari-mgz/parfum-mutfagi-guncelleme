@@ -1,8 +1,7 @@
 {
-    "surum":  "2026.10.30.6",
-    "tarih":  "2026-10-30",
-    "zip":  "https://raw.githubusercontent.com/parfummutfagimagazalari-mgz/parfum-mutfagi-guncelleme/main/nebim-asistani/paketler/NebimAsistani-2026.10.30.6.zip",
-    "sha256":  "21596c411a01aec08dba8df8e38075e68078d7dd329371c373f0f6e62ed8c764",
-    "notlar":  "Canli Makine Ekranli Sesli Ajan (v6.0) - Personel/Prim Aktar butonu kaldirildi, Yenile butonu dogrudan hizli PM_V3 SQL sorgusu (AllInvoices + AllPayments) ile anlik calisacak sekilde duzeltildi.",
-    "not":  "Canli Makine Ekranli Sesli Ajan (v6.0) - Personel/Prim Aktar butonu kaldirildi, Yenile butonu dogrudan hizli PM_V3 SQL sorgusu (AllInvoices + AllPayments) ile anlik calisacak sekilde duzeltildi."
+    "surum":  "2026.10.30.7",
+    "tarih":  "2026-10-30 16:37:51",
+    "zip":  "https://raw.githubusercontent.com/parfummutfagimagazalari-mgz/parfum-mutfagi-guncelleme/main/nebim-asistani/paketler/NebimAsistani-2026.10.30.7.zip",
+    "sha256":  "8f88a589d0637712eb8192096f00ef8d3e18c9fb5bb82cab87ca663e33f129c1",
+    "not":  "FilterControl (v3DateFunctionOperator) hatasi ve UIA tam agac tarama gecikmesi giderildi; Yenile sadece SQL uzerinden okur."
 }
