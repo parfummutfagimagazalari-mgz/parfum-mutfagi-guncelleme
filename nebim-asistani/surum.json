@@ -1,1 +1,5 @@
-{"surum":"2026.10.30.5","tarih":"2026-10-30","aciklama":"Satis Sorumlusu ve acik ekran algilama iyilestirmesi, Canli Makine Ekrani bozuk kutu karakteri ve yanlis alarm duzeltmesi, katalog rehber yedegi"}
+{
+    "surum":  "2026.10.30.6",
+    "tarih":  "2026-10-30",
+    "not":  "Canlı Makine Ekranlı Sesli Ajan (v6.0) — Personel/Prim Aktar butonu ve işlevi kaldırıldı, Yenile butonu doğrudan hızlı PM_V3 SQL sorgusu (AllInvoices + AllPayments) ile anlık çalışacak şekilde düzeltildi."
+}
