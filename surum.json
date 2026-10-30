@@ -1,5 +1,8 @@
 {
     "surum":  "2026.10.30.6",
     "tarih":  "2026-10-30",
-    "not":  "Canlı Makine Ekranlı Sesli Ajan (v6.0) — Personel/Prim Aktar butonu ve işlevi kaldırıldı, Yenile butonu doğrudan hızlı PM_V3 SQL sorgusu (AllInvoices + AllPayments) ile anlık çalışacak şekilde düzeltildi."
+    "zip":  "https://raw.githubusercontent.com/parfummutfagimagazalari-mgz/parfum-mutfagi-guncelleme/main/nebim-asistani/paketler/NebimAsistani-2026.10.30.6.zip",
+    "sha256":  "21596c411a01aec08dba8df8e38075e68078d7dd329371c373f0f6e62ed8c764",
+    "notlar":  "Canli Makine Ekranli Sesli Ajan (v6.0) - Personel/Prim Aktar butonu kaldirildi, Yenile butonu dogrudan hizli PM_V3 SQL sorgusu (AllInvoices + AllPayments) ile anlik calisacak sekilde duzeltildi.",
+    "not":  "Canli Makine Ekranli Sesli Ajan (v6.0) - Personel/Prim Aktar butonu kaldirildi, Yenile butonu dogrudan hizli PM_V3 SQL sorgusu (AllInvoices + AllPayments) ile anlik calisacak sekilde duzeltildi."
 }
