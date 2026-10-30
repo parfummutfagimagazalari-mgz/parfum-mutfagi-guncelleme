@@ -1,15 +1,15 @@
 {
-    "surum":  "2026.10.30.13",
-    "version":  "2026.10.30.13",
-    "yayinTarihi":  "2026-10-30 18:26:53",
-    "publishedAt":  "2026-10-30 18:26:53",
-    "dosyaAdi":  "NebimAsistani-2026.10.30.13.zip",
-    "indirmeUrl":  "https://raw.githubusercontent.com/parfummutfagimagazalari-mgz/parfum-mutfagi-guncelleme/main/nebim-asistani/paketler/NebimAsistani-2026.10.30.13.zip",
-    "downloadUrl":  "https://raw.githubusercontent.com/parfummutfagimagazalari-mgz/parfum-mutfagi-guncelleme/main/nebim-asistani/paketler/NebimAsistani-2026.10.30.13.zip",
-    "zipUrl":  "https://raw.githubusercontent.com/parfummutfagimagazalari-mgz/parfum-mutfagi-guncelleme/main/nebim-asistani/paketler/NebimAsistani-2026.10.30.13.zip",
-    "zip":  "https://raw.githubusercontent.com/parfummutfagimagazalari-mgz/parfum-mutfagi-guncelleme/main/nebim-asistani/paketler/NebimAsistani-2026.10.30.13.zip",
-    "sha256":  "7669a2f3457e12228f35de32c2bd06c06cf8a80bfc8079eb72734be8dd5f2d26",
-    "boyut":  1600500,
-    "not":  "v2026.10.30.13 : Sistem tepsisi hayalet (i) simgeleri otomatik temizleme (SweepPhantomTrayIcons) ve duzgun NotifyIcon kapatma.",
-    "notlar":  "v2026.10.30.13 : Sistem tepsisi hayalet (i) simgeleri otomatik temizleme (SweepPhantomTrayIcons) ve duzgun NotifyIcon kapatma."
+    "surum":  "2026.10.30.14",
+    "version":  "2026.10.30.14",
+    "yayinTarihi":  "2026-10-30 18:41:05",
+    "publishedAt":  "2026-10-30 18:41:05",
+    "dosyaAdi":  "NebimAsistani-2026.10.30.14.zip",
+    "indirmeUrl":  "https://raw.githubusercontent.com/parfummutfagimagazalari-mgz/parfum-mutfagi-guncelleme/main/nebim-asistani/paketler/NebimAsistani-2026.10.30.14.zip",
+    "downloadUrl":  "https://raw.githubusercontent.com/parfummutfagimagazalari-mgz/parfum-mutfagi-guncelleme/main/nebim-asistani/paketler/NebimAsistani-2026.10.30.14.zip",
+    "zipUrl":  "https://raw.githubusercontent.com/parfummutfagimagazalari-mgz/parfum-mutfagi-guncelleme/main/nebim-asistani/paketler/NebimAsistani-2026.10.30.14.zip",
+    "zip":  "https://raw.githubusercontent.com/parfummutfagimagazalari-mgz/parfum-mutfagi-guncelleme/main/nebim-asistani/paketler/NebimAsistani-2026.10.30.14.zip",
+    "sha256":  "27acc33e4c438831598cf17d8b79b66edf79f70da35549ce663b3d87ec84ef73",
+    "boyut":  1600959,
+    "not":  "v2026.10.30.14 : Islem tamamlandiginda (F5, Enter, Esc, Tab, fare tiklamasi, ekran degisimi veya 6 sn sonunda) hem yerel hem RDP icindeki isaretleyici renkli cercevenin otomatik gizlenmesi saglandi.",
+    "notlar":  "v2026.10.30.14 : Islem tamamlandiginda (F5, Enter, Esc, Tab, fare tiklamasi, ekran degisimi veya 6 sn sonunda) hem yerel hem RDP icindeki isaretleyici renkli cercevenin otomatik gizlenmesi saglandi."
 }
