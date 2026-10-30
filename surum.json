@@ -1,7 +1,13 @@
 {
-    "surum":  "2026.10.30.9",
-    "tarih":  "2026-10-30 17:27",
-    "zip":  "https://raw.githubusercontent.com/parfummutfagimagazalari-mgz/parfum-mutfagi-guncelleme/main/NebimAsistani-2026.10.30.9.zip",
-    "sha256":  "1874f0f533005e62ff07ec6b809264c782c0beb53eb4da6530a4ed4118508ecc",
-    "not":  "v2026.10.30.9: Tam Yetkili Nebim Bilgi \u0026 Cozum Kutuphanesi (1.562 menu 5 adimli uctan uca rehber, 26 cozum makalesi, 32 hata cozumu ve Cozum Merkezi penceresi)."
+    "surum":  "2026.10.30.10",
+    "version":  "2026.10.30.10",
+    "yayinTarihi":  "2026-10-30 17:40:26",
+    "publishedAt":  "2026-10-30 17:40:26",
+    "dosyaAdi":  "NebimAsistani-2026.10.30.10.zip",
+    "indirmeUrl":  "https://raw.githubusercontent.com/hasanzeren55-ctrl/parfum-mutfagi-guncelleme/main/NebimAsistani-2026.10.30.10.zip",
+    "downloadUrl":  "https://raw.githubusercontent.com/hasanzeren55-ctrl/parfum-mutfagi-guncelleme/main/NebimAsistani-2026.10.30.10.zip",
+    "zipUrl":  "https://raw.githubusercontent.com/hasanzeren55-ctrl/parfum-mutfagi-guncelleme/main/NebimAsistani-2026.10.30.10.zip",
+    "sha256":  "af09f78f050eff8306a8a91e870dd8ffb4fc1dc46821b5a3b5252f1c0702852e",
+    "boyut":  972577,
+    "notlar":  "v2026.10.30.10 : 5 Katmanli Fare ve Klavye Mudahale Kalkani (ClipCursor imlec sabitleme, BlockInput kritik pencere kalkani, cift SetCursorPos cift tik garantisi, tek paket atomik SendInput yazma ve mukerrer tiklama kilidi)."
 }
