@@ -1,0 +1,7 @@
+{
+    "surum":  "2026.10.30.5",
+    "tarih":  "2026-10-30",
+    "paketUrl":  "https://raw.githubusercontent.com/parfummutfagimagazalari-mgz/parfum-mutfagi-guncelleme/main/NebimAsistani-2026.10.30.5.zip",
+    "sha256":  "528c7d5accee0f1ffecd7c2d0097afb2abbe5c43ddd76f4fbbd908650a37d4d0",
+    "notlar":  "Satış Sorumlusu ve açık ekran algılama iyileştirmesi, Canlı Makine Ekranı bozuk kutu karakteri ([]) ve yanlış kırmızı alarm düzeltmesi, Satış Sorumlusu pasife alma (Bağlantı İhlali) canlı rehber adımları ve sesli dikte kapat/gizle komutu."
+}
