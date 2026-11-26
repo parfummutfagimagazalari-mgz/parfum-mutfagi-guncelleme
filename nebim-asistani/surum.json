@@ -1,15 +1,15 @@
 {
-    "surum":  "2026.10.30.14",
-    "version":  "2026.10.30.14",
-    "yayinTarihi":  "2026-10-30 18:41:05",
-    "publishedAt":  "2026-10-30 18:41:05",
-    "dosyaAdi":  "NebimAsistani-2026.10.30.14.zip",
-    "indirmeUrl":  "https://raw.githubusercontent.com/parfummutfagimagazalari-mgz/parfum-mutfagi-guncelleme/main/nebim-asistani/paketler/NebimAsistani-2026.10.30.14.zip",
-    "downloadUrl":  "https://raw.githubusercontent.com/parfummutfagimagazalari-mgz/parfum-mutfagi-guncelleme/main/nebim-asistani/paketler/NebimAsistani-2026.10.30.14.zip",
-    "zipUrl":  "https://raw.githubusercontent.com/parfummutfagimagazalari-mgz/parfum-mutfagi-guncelleme/main/nebim-asistani/paketler/NebimAsistani-2026.10.30.14.zip",
-    "zip":  "https://raw.githubusercontent.com/parfummutfagimagazalari-mgz/parfum-mutfagi-guncelleme/main/nebim-asistani/paketler/NebimAsistani-2026.10.30.14.zip",
-    "sha256":  "27acc33e4c438831598cf17d8b79b66edf79f70da35549ce663b3d87ec84ef73",
-    "boyut":  1600959,
-    "not":  "v2026.10.30.14 : Islem tamamlandiginda (F5, Enter, Esc, Tab, fare tiklamasi, ekran degisimi veya 6 sn sonunda) hem yerel hem RDP icindeki isaretleyici renkli cercevenin otomatik gizlenmesi saglandi.",
-    "notlar":  "v2026.10.30.14 : Islem tamamlandiginda (F5, Enter, Esc, Tab, fare tiklamasi, ekran degisimi veya 6 sn sonunda) hem yerel hem RDP icindeki isaretleyici renkli cercevenin otomatik gizlenmesi saglandi."
+    "surum":  "2026.11.26.1",
+    "version":  "2026.11.26.1",
+    "yayinTarihi":  "2026-11-26 01:05:35",
+    "publishedAt":  "2026-11-26 01:05:35",
+    "dosyaAdi":  "NebimAsistani-2026.11.26.1.zip",
+    "indirmeUrl":  "https://raw.githubusercontent.com/parfummutfagimagazalari-mgz/parfum-mutfagi-guncelleme/main/nebim-asistani/paketler/NebimAsistani-2026.11.26.1.zip",
+    "downloadUrl":  "https://raw.githubusercontent.com/parfummutfagimagazalari-mgz/parfum-mutfagi-guncelleme/main/nebim-asistani/paketler/NebimAsistani-2026.11.26.1.zip",
+    "zipUrl":  "https://raw.githubusercontent.com/parfummutfagimagazalari-mgz/parfum-mutfagi-guncelleme/main/nebim-asistani/paketler/NebimAsistani-2026.11.26.1.zip",
+    "zip":  "https://raw.githubusercontent.com/parfummutfagimagazalari-mgz/parfum-mutfagi-guncelleme/main/nebim-asistani/paketler/NebimAsistani-2026.11.26.1.zip",
+    "sha256":  "57a373054afc7cdc2d44e7a640811e270eef2d255f5287ab50ad336622e2e6e3",
+    "boyut":  1586245,
+    "not":  "v2026.11.26.1 : Asistan artik UYKUDA bekler; Nebim ekranini surekli taramaz (bosta CPU %21 -\u003e %0,5). Menu karosuna tiklaninca ya da disaridan menu istegi gelince uyanir, isi bitince veya 2 dk sonra uyur ve bellegi temizler. Bellek sizintisi olusturabilecek surec nesneleri duzeltildi.",
+    "notlar":  "v2026.11.26.1 : Asistan artik UYKUDA bekler; Nebim ekranini surekli taramaz (bosta CPU %21 -\u003e %0,5). Menu karosuna tiklaninca ya da disaridan menu istegi gelince uyanir, isi bitince veya 2 dk sonra uyur ve bellegi temizler. Bellek sizintisi olusturabilecek surec nesneleri duzeltildi."
 }
